@@ -23,6 +23,12 @@ A playing card design created using **pure HTML and CSS**, without JavaScript.
 
 This project is part of my journey into frontend development. It explores the creative possibilities of CSS and demonstrates how visually appealing designs can be created without JavaScript.
 
+## 🌐 Live Preview
+
+🚀 **View the artwork live:** [Click here to see the CSS Playing Cards](https://sushanttandan.github.io/CSS-Playing-Cards/)
+
+Explore the finished design in your browser!
+
 ---
 
 **Made with ❤️ using HTML and CSS.**
